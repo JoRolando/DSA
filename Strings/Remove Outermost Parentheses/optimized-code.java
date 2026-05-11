@@ -1,3 +1,9 @@
+// Pattern Used:
+// Counter / Parentheses Balance
+
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
 import java.util.*;
 
 class Solution {
